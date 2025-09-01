@@ -45,6 +45,7 @@ import vueLogo from '../assets/vue.svg'
     background-color: var(--dark-alt);
     padding: 2rem;
     margin-left: 0.5rem;
+    border-radius: 6px;
 
     .text {
         width: 50%;
