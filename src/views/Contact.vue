@@ -172,6 +172,7 @@
   }
 
   .notification {
+    height: fit-content;
     flex: 1;
     background-color: var(--dark-alt);
     border-radius: 6px;
