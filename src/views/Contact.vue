@@ -36,10 +36,30 @@
         <div class="card-header">
           <h1>Notification</h1>
         </div>
-        <div class="card" v-for="n in 3" :key="n">
+        <!-- <div class="card" v-for="n in 3" :key="n">
           <div class="card-body">
             <h5 class="title">Card {{ n }}</h5>
             <p class="text">Card long text</p>
+          </div>
+        </div> -->
+        <div class="card">
+          <div class="card-body">
+            <h5 class="title">New Features & Updates</h5>
+            <p class="text">Get notified when we release new features, performance improvements, or important bug fixes.</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <h5 class="title">Email Notifications</h5>
+            <p class="text">Receive email updates about news, special promotions, and product announcements directly to your inbox.</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <h5 class="title">Security Alerts</h5>
+            <p class="text">We’ll alert you about suspicious login attempts or changes to your account settings to help keep your account secure.</p>
           </div>
         </div>
       </div>

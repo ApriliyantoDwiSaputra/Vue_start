@@ -3,20 +3,20 @@
         <div class="container">
             <div class="member">
                 <img src="https://i.pinimg.com/736x/d0/e9/8c/d0e98c7182a9cedd410c77f95ec8cabc.jpg" alt="image">
-                <h1>Team Member</h1>
-                <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+                <h1>Sarah Amilia</h1>
+                <p>UI/UX Designer with a passion for creating intuitive and engaging user experiences. Focused on modern, clean, and user-friendly interfaces.</p>
                 <button>View Details</button>
             </div>
             <div class="member">
                 <img src="https://i.pinimg.com/736x/10/e3/8c/10e38c9ad5680531b1485052cacc4f5d.jpg" alt="image">
-                <h1>Team Member</h1>
-                <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+                <h1>Michael Lee</h1>
+                <p>Full-Stack Developer experienced in building scalable web applications. Skilled in JavaScript, Vue.js, Laravel, and cloud deployment.</p>
                 <button>View Details</button>
             </div>
             <div class="member">
                 <img src="https://i.pinimg.com/736x/e3/9b/b7/e39bb75dfc09441cebafb6bb197ff6bf.jpg" alt="image">
-                <h1>Team Member</h1>
-                <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
+                <h1>Emylia Carter</h1>
+                <p>Project Manager ensuring smooth collaboration between teams. Strong background in agile methodologies and product strategy.</p>
                 <button>View Details</button>
             </div>
         </div>

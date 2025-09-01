@@ -1,7 +1,7 @@
 <template>
     <main class="about-page">
         <div class="judul">
-            <h2>System settings</h2>
+            <h1>System settings</h1>
             <p>Please enable system alert you will get.</p>
         </div>
 
@@ -38,7 +38,7 @@
         </div>
         
         <div class="judul">
-            <h2>Security settings</h2>
+            <h1>Security settings</h1>
             <p>Control security alert you will be notified.</p>
         </div>
 
@@ -73,11 +73,11 @@
 
 <style lang="scss" scoped>
 main {
-    padding: 1.5rem 5rem;
+    padding: 1rem 5rem;
     color: var(--dark-alt);
     
-    h2 {
-        font-size: 1rem;
+    h1 {
+        font-size: 2rem;
         font-weight: 600;
     }
 }
@@ -99,11 +99,33 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem;
+    padding: 0.5rem;
     border-bottom: 1px solid var(--dark);
 
     &:last-child {
         border-bottom: none;
+    }
+
+    .text {
+        span {
+            font-size: 1rem;
+            font-weight: 600;
+        }
+
+        p {
+            font-size: 0.85rem;
+            color: #aaa;
+            margin-top: 0.3rem;
+        }
+    }
+}
+
+.toggle {
+    input {
+        font-size: 5rem;
+        width: 3rem;
+        height: 1.5rem;
+        accent-color: var(--primary);
     }
 }
 </style>
